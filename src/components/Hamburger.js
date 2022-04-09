@@ -25,9 +25,9 @@ const Hamburger = ({ isOpen, toggle }) => {
                                     Portfolio
                                 </SideBarLink>
                     <SideBtnWrap>
-                        <a href="mailto:flores.d@sscrmnl.edu.ph" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faEnvelope} /> </a>
-                        <a href="https://www.linkedin.com/in/deinenflores/" target="_blank" rel="noreferrer"> <FontAwesomeIcon icon={faLinkedin} /> </a>
-                        <a href="https://github.com/Yetiiii25" target="_blank" rel="noreferrer">    <FontAwesomeIcon icon={faGithub} /> </a>
+                        <a href="#" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faEnvelope} /> </a>
+                        <a href="#" target="_blank" rel="noreferrer"> <FontAwesomeIcon icon={faLinkedin} /> </a>
+                        <a href="#" target="_blank" rel="noreferrer">    <FontAwesomeIcon icon={faGithub} /> </a>
                     </SideBtnWrap>
                 </SideBarMenu>
             </SideBarWrapper>
