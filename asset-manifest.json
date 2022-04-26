@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DarkModeThemeReactTemplate/static/css/main.b4dc8336.css",
+    "main.js": "/DarkModeThemeReactTemplate/static/js/main.b047f7a8.js",
+    "static/js/787.bbd451d8.chunk.js": "/DarkModeThemeReactTemplate/static/js/787.bbd451d8.chunk.js",
+    "static/media/idea.png": "/DarkModeThemeReactTemplate/static/media/idea.63039c1c4f1213f4f59e.png",
+    "index.html": "/DarkModeThemeReactTemplate/index.html",
+    "main.b4dc8336.css.map": "/DarkModeThemeReactTemplate/static/css/main.b4dc8336.css.map",
+    "main.b047f7a8.js.map": "/DarkModeThemeReactTemplate/static/js/main.b047f7a8.js.map",
+    "787.bbd451d8.chunk.js.map": "/DarkModeThemeReactTemplate/static/js/787.bbd451d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4dc8336.css",
+    "static/js/main.b047f7a8.js"
+  ]
+}
